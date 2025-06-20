@@ -8,5 +8,4 @@ function toggleMode() {
 //}
 
  html.classList.toggle('light')
-}
-  
+}  
