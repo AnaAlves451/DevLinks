@@ -36,7 +36,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-<p align="center"> <a href="https://ana-alves-santos.github.io/devlinks/" target="_blank"> 👉 Clique aqui para testar o DevLinks </a> </p>
+<p align="center">
+  <a href="https://ana-alves-santos.github.io/devlinks/" target="_blank">
+    👉 Acesse aqui
+  </a>
+</p>
 
 ## :memo: Licença
 
