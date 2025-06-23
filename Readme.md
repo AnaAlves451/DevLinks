@@ -38,7 +38,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 <p align="center">
   <a href="https://ana-alves-santos.github.io/devlinks/" target="_blank">
-    👉 Acesse aqui
+    🚀 Acesse o projeto online
   </a>
 </p>
 
