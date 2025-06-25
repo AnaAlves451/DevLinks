@@ -46,4 +46,7 @@ The layout was designed on [Figma](https://www.figma.com/).
 
 ## :memo: License
 
-This project is under the MIT license.
+This project is under the [MIT License](LICENSE).
+
+---
+This project was developed during a Rocketseat course.
