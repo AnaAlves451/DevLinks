@@ -17,10 +17,6 @@
   <img alt="DevLinks Project" src="assets/image.png" width="100%">
 </p>
 
-<p align="center">
-  <img alt="DevLinks Project" src="assets/image.png" width="100%">
-</p>
-
 ## 🚀 Technologies
 
 This project was developed using the following technologies:
