@@ -7,7 +7,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-<img width="1339" height="572" alt="image" src="https://github.com/user-attachments/assets/01498fd1-5cd0-4141-b1ea-b8fd7ae3d8cf" />
+<img width="1336" height="585" alt="image" src="https://github.com/user-attachments/assets/c6e79ff8-761c-4f14-ae5a-a9e194f18149" />
 
 ## 🚀 Technologies
 
@@ -35,5 +35,6 @@ This project is under the [MIT License](LICENSE).
 
 
 This project was developed during a Rocketseat course.
+
 
 
