@@ -33,6 +33,7 @@ This project was developed using the following technologies:
 
 This project is under the [MIT License](LICENSE).
 
----
+
 This project was developed during a Rocketseat course.
+
 
