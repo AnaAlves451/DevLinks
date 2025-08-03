@@ -7,15 +7,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="DevLinks Project" src="assets/image.png" width="100%">
-</p>
+<img width="1339" height="572" alt="image" src="https://github.com/user-attachments/assets/01498fd1-5cd0-4141-b1ea-b8fd7ae3d8cf" />
 
 ## 🚀 Technologies
 
@@ -32,13 +24,10 @@ This project was developed using the following technologies:
 
 <p align="center">
   <a href="https://ana-alves-santos.github.io/devlinks/" target="_blank">
-    🚀 Access the live project
+    Click here to view
   </a>
 </p>
 
-## 🖼️ Layout
-
-The layout was designed on [Figma](https://www.figma.com/).
 
 ## :memo: License
 
@@ -46,3 +35,4 @@ This project is under the [MIT License](LICENSE).
 
 ---
 This project was developed during a Rocketseat course.
+
