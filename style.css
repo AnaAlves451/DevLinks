@@ -28,6 +28,7 @@
 /* Fundo */
 body {
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
 }
 
 body * {
@@ -80,7 +81,7 @@ body * {
   left: 0;
   z-index: 1;
   transform: translateY(-50%);
-
+  
   animation: slide-back 0.2s;
 }
 
@@ -154,6 +155,7 @@ ul li a:hover {
   background: var(--highlight-color);
 }
 
+
 /* Footer */
 footer {
   padding: 24px 0;
@@ -189,4 +191,51 @@ footer {
   to {
     left: 0;
   }
+}
+/* Centralização da seção Sobre mim */
+.sobre {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 32px 40px;
+  max-width: 650px;
+  margin: 40px auto;
+  background: rgba(255 255 255 / 0.08); /* branco com transparência leve */
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0 0 0 / 0.1);
+  color: var(--text-color);
+  font-family: 'Inter', sans-serif;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255 255 255 / 0.15);
+  transition: background 0.3s ease;
+}
+
+.sobre:hover {
+  background: rgba(255 255 255 / 0.12);
+  border-color: rgba(255 255 255 / 0.25);
+}
+
+.sobre h1 {
+  align-self: center;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 24px;
+  color: var(--text-color);
+  text-shadow: 0 1px 3px var(--stroke-color);
+}
+
+.sobre p {
+  font-size: 1.125rem;
+  line-height: 1.7;
+  margin: 0 0 16px 0;
+  word-break: break-word;
+  letter-spacing: 0.02em;
+  color: var(--text-color);
+  text-shadow: 0 1px 2px var(--stroke-color);
+}
+
+.sobre p:last-child {
+  margin-bottom: 0;
 }
